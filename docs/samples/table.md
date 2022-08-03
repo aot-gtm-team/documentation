@@ -33,40 +33,48 @@ sort: 3
     </td>
   </tr>
   
-    <tr>
-    <td><!--  Cloud Provider Name  -->
+  
+  <tr>
+    <td> <!--  Cloud Provider Name  -->
+       IBM
+    </td>
+    <td> <!-- Prodcut -->
+      RHOIC (Red Hat OpenShift on IBM Cloud)
+    </td>
+    <td> <!-- Link -->
+       link
+    </td>
+  </tr>
+
+</table>
+
+
+<table>
+  <tr><!--line 1 title-->
+    <th> Cloud Provider </th> <th> Prodcut </th> <th> Link</th>
+  </tr>
+  <tr>
+    <td> <!--  Cloud Provider Name  -->
         AWS
     </td>
-    <td><!-- Prodcut -->
+    <td> <!-- Prodcut -->
       OSD (OpenShift Dedicated) on AWS
     </td>
-    <td><!-- Link -->
-       
+    <td> <!-- Link -->
+       link
     </td>
   </tr>
   
    <tr>
-    <td><!--  Cloud Provider Name  -->
+    <td> <!--  Cloud Provider Name  -->
         GCP
     </td>
-    <td><!-- Prodcut -->
+    <td> <!-- Prodcut -->
       OSD (OpenShift Dedicated) on GCP
     </td>
-    <td><!-- Link -->
-       
+    <td> <!-- Link -->
+       link
     </td>
   </tr>
   
-  <tr>
-    <td><!--  Cloud Provider Name  -->
-       IBM
-    </td>
-    <td><!-- Prodcut -->
-      RHOIC (Red Hat OpenShift on IBM Cloud)
-    </td>
-    <td><!-- Link -->
-       
-    </td>
-  </tr>
-
 </table>
