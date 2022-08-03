@@ -1,3 +1,6 @@
+---
+sort: 1
+---
 
 ## What'S New in OpenShift 4.11
 
