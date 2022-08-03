@@ -7,4 +7,4 @@
 
 ## Embed YouTube video
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/R-AXqk3KF4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=6QJhJTPY2mI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
