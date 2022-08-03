@@ -1,3 +1,7 @@
+---
+sort: 3
+---
+
 # ROSA Quick installation with STS enabled
 
 ## Create Red Hat account
