@@ -32,6 +32,41 @@ sort: 3
          <a href="https://redhat-forum.jp/summit/](https://azure.microsoft.com/en-in/pricing/calculator/">Pricing calculator</a>
     </td>
   </tr>
-
+  
+    <tr>
+    <td><!--  Cloud Provider Name  -->
+        AWS
+    </td>
+    <td><!-- Prodcut -->
+      OSD (OpenShift Dedicated) on AWS
+    </td>
+    <td><!-- Link -->
+       
+    </td>
+  </tr>
+  
+   <tr>
+    <td><!--  Cloud Provider Name  -->
+        GCP
+    </td>
+    <td><!-- Prodcut -->
+      OSD (OpenShift Dedicated) on GCP
+    </td>
+    <td><!-- Link -->
+       
+    </td>
+  </tr>
+  
+  <tr>
+    <td><!--  Cloud Provider Name  -->
+       IBM
+    </td>
+    <td><!-- Prodcut -->
+      RHOIC (Red Hat OpenShift on IBM Cloud)
+    </td>
+    <td><!-- Link -->
+       
+    </td>
+  </tr>
 
 </table>
