@@ -2,7 +2,7 @@
 sort: 3
 ---
 
-# Links
+# Pricing Calculator
 
 <table>
   <tr><!--line 1 title-->
