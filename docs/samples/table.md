@@ -42,7 +42,7 @@ sort: 3
       RHOIC (Red Hat OpenShift on IBM Cloud)
     </td>
     <td> <!-- Link -->
-       link
+      <a href="https://www.ibm.com/cloud/openshift/pricing)" target="_blank" >Pricing</a>
     </td>
   </tr>
 
