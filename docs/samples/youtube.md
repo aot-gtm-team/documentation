@@ -3,7 +3,9 @@
 
 ## Embed pdf
 
-<embed src="docs/pdf/2022-rosa-workshop-lecture.pdf#&scrollbar=0&view=Fit&viewrect=0,0,570,0" width="640" height="360" hspace="0" vspace="0">
+What's New in OpenShift 4.11
+
+<embed src="docs/pdf/What_s_New_in_OpenShift_4.11_-_Public.pdf#&scrollbar=0&view=Fit&viewrect=0,0,570,0" width="640" height="360" hspace="0" vspace="0">
 
 ## Embed YouTube video
 
