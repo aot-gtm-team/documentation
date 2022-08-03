@@ -2,8 +2,6 @@
 sort: 1
 ---
 
-## What'S New in OpenShift 4.11
-
 ## Embed pdf file
 
 write a relative path to pdf file
