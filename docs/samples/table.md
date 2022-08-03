@@ -17,7 +17,7 @@ sort: 3
          ROSA (Red Hat OpenShift Service on AWS) 
     </td>
     <td><!--  Link -->
-    <a href="https://aws.amazon.com/jp/rosa/pricing/">Red Hat OpenShift Service on AWS Pricing</a>
+    <a href="https://aws.amazon.com/jp/rosa/pricing/" target="_blank" >Red Hat OpenShift Service on AWS Pricing</a>
     </td>
   </tr>
   
@@ -29,7 +29,7 @@ sort: 3
       ARO (Azure Red Hat OpenShift) 
     </td>
     <td><!-- Link -->
-         <a href="https://redhat-forum.jp/summit/](https://azure.microsoft.com/en-in/pricing/calculator/">Pricing calculator</a>
+         <a href="https://azure.microsoft.com/en-in/pricing/calculator/" target="_blank" >Pricing calculator</a>
     </td>
   </tr>
   
