@@ -1,5 +1,7 @@
+---
+sort: 1
+---
+
 # Samples
 
-source: `{{ page.path }}`
-
-This is a directory for sample ASCII doc documents
+{% include list.liquid all=true %}
