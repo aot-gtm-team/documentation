@@ -11,6 +11,13 @@ Upload a pdf file on GitHub then use the default viewer.
 
 you can download this file from [here](../pdf/What_s_New_in_OpenShift_4.11_-_Public.pdf)
 
+## Embed pdf file in different form
+
+Upload a pdf file on GitHub then use the default viewer.
+
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://github.com/rh-mobb-aot/documentation/blob/master/docs/pdf/What_s_New_in_OpenShift_4.11_-_Public.pdf" title="What's New in OpenShift 4.11" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 640px; height: 360px;" data-ratio="1.78343949044586"></iframe>
+
+
 ## Embed Speakerdeck
 
 Better user experience. 
