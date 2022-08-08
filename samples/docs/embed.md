@@ -1,13 +1,13 @@
 ---
-sort: 14
+sort: 13
 ---
-# Pdf embed Test               
+# Pdf embed                
 
 ## Embed pdf file
 
 Upload a pdf file on GitHub then use the default viewer.
 
-<embed src="../pdf/What_s_New_in_OpenShift_4.11_-_Public.pdf#&scrollbar=0&view=Fit&viewrect=0,0,570,0" width="640" height="360" hspace="0" vspace="0">
+<embed src="../../pdf/What_s_New_in_OpenShift_4.11_-_Public.pdf#&scrollbar=0&view=Fit&viewrect=0,0,570,0" width="640" height="360" hspace="0" vspace="0">
 
 you can download this file from [here](../pdf/What_s_New_in_OpenShift_4.11_-_Public.pdf)
 
