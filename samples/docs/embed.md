@@ -1,5 +1,5 @@
 ---
-sort: 1
+sort: 14
 ---
 # What's New in OpenShift 4.11
 

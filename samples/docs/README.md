@@ -1,7 +1,10 @@
 ---
-sort: 4
+sort: 2
 ---
 
-# docs
+# Test Documentation
 
+```
+{% raw %}{% include list.liquid all=true %}{% endraw %}
+```
 {% include list.liquid all=true %}
