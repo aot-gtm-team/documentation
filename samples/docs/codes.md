@@ -42,3 +42,21 @@ sort: 3
   font-style: italic;
 }
 ```
+
+## Code highligt
+```yaml
+piVersion: v1
+kind: Pod
+metadata:
+  labels:
+  name: pod1
+spec: 
+  nodeSelector:
+    worker: worker1
+  containers:
+  - image: ubi8:latest  
+    name: pod1
+    command:
+    - sleep
+    - infinity
+```
