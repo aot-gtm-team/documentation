@@ -25,7 +25,7 @@ sort: 3
 }
 ```
 
-## Code highlight
+## Code highlight (css)
 ```css
 .highlight table td { padding: 5px; }
 .highlight table pre { margin: 0; }
@@ -43,7 +43,7 @@ sort: 3
 }
 ```
 
-## Code highligt
+## Code highlight (yaml)
 ```yaml
 piVersion: v1
 kind: Pod
