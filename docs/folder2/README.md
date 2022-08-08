@@ -1,3 +1,0 @@
-# ARO
-
-source: `{{ page.path }}`
