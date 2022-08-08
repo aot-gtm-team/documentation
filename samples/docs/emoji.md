@@ -12,10 +12,13 @@ I give this theme two :+1:!
 
 
 ```
-:smile:!
+:smile:
 ```
 
-:smile:!
+:smile:
+:slightly_smiling_face:
+:upside_down_face:
+:face_without_mouse:
 
 
 
