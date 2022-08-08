@@ -1,4 +1,4 @@
-# Docs folder
+# Site map
 
 This folder is the root folder of this GitHub pages web site.
 
