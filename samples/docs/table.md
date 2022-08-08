@@ -1,8 +1,8 @@
 ---
-sort: 12
+sort: 9
 ---
 
-# Pricing Calculator
+# Table       
 
 <table>
   <tr><!--line 1 title-->
