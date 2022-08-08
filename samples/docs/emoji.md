@@ -5,10 +5,10 @@ sort: 5
 # Emoji Test
 
 ```
-I give this theme two :+1:!
+I give this theme two :+1:
 ```
 
-I give this theme two :+1:!
+I give this theme two :+1:
 
 
 ```
@@ -16,9 +16,25 @@ I give this theme two :+1:!
 ```
 
 :smile:
+
+```
 :slightly_smiling_face:
+```
+
+:slightly_smiling_face:
+
+```
 :upside_down_face:
-:face_without_mouse:
+```
+
+:upside_down_face:
+
+
+```
+:face_without_mouth:
+```
+
+:face_without_mouth:
 
 
 
