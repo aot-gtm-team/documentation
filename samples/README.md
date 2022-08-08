@@ -1,7 +1,7 @@
 ---
-sort: 4
+sort: 1
 ---
 
-# samples
+# Samples
 
-source: `{{ page.path }}`
+{% include list.liquid all=true %}
