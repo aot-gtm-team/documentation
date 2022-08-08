@@ -61,7 +61,7 @@ sort: 1
       OSD (OpenShift Dedicated) on AWS
     </td>
     <td> <!-- Link -->
-       link
+       Contact Red Hat sales rep
     </td>
   </tr>
   
@@ -73,7 +73,7 @@ sort: 1
       OSD (OpenShift Dedicated) on GCP
     </td>
     <td> <!-- Link -->
-       link
+       Contact Red Hat sales rep
     </td>
   </tr>
   
