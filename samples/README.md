@@ -1,0 +1,3 @@
+# samples
+
+source: `{{ page.path }}`
