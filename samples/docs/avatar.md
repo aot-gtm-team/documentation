@@ -5,10 +5,10 @@ sort: 7
 # Avatar Test
 
 ```
-{% raw %}{% avatar saowang %}{% endraw %}
+{% raw %}{% avatar yuhkih %}{% endraw %}
 ```
 
-{% avatar saowang %}
+{% avatar yuhkih  %}
 
 
 ```tip
