@@ -1,8 +1,8 @@
 ---
-sort: 8
+sort: 1
 ---
 
-# Table       
+# Pricing     
 
 <table>
   <tr><!--line 1 title-->
