@@ -17,6 +17,3 @@ plugins:
   - jekyll-avatar
   - jekyll-mentions
   - jekyll-gist
-
-gems:
-  - jekyll-gist
