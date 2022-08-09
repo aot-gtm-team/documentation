@@ -17,3 +17,6 @@ plugins:
   - jekyll-avatar
   - jekyll-mentions
   - jekyll-gist
+
+gist:
+  noscript: false
